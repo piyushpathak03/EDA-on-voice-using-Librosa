@@ -1,1 +1,3 @@
-# EDA-on-voice-using-Librosa
+# Librosa
+
+librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
